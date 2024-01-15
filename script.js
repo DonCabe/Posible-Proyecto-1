@@ -4,3 +4,4 @@ let juegosDisponibles = 40;
 console.log('El usuario respondió `' + teGusta + '` a si le gustan o no los juegos de mesa.');
 console.log('El juego favorito del usuario es ' + juegoFavorito + ' y hay ' + juegosDisponibles + ' juegos disponibles!');
 alert('En breve buscaremos ' + juegoFavorito + '. Esperamos que disfrutes tu juego!');
+console.warn("Por ahora, microdesafío 1.");
